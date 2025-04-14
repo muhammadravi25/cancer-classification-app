@@ -32,7 +32,7 @@
 - **Indonesia Health News API**: Source of up-to-date information about cancer.
 - **Android SDK 21**: The minimum supported Android version (Android 5.0 Lollipop).
 
-## OTHER
+## Other
 - **Link Model** : https://github.com/dicodingacademy/a663-machine-learning-android/raw/master/submission/cancer_classification.tflite
 - **Link App (Build)** : https://drive.google.com/drive/folders/1wHRDgcC08s8dHaFQ1rv_psL1Oez--dX4?usp=sharing
 - **Link Indonesia Health News API** : https://newsapi.org/s/indonesia-health-news-api
